@@ -10,7 +10,6 @@
 #include <ESP8266WiFi.h>
 #include <WiFiClientSecure.h>
 #include <Wire.h>
-#include <SPI.h>
 #include "bgArrows.h"
 #include "credentials.h"
 
